@@ -1,6 +1,0 @@
-> Three ways to add css
-- Inline, Internal, External
-> inline>internal>external
-
->Selector- it is the way to target an element in the htm file and you can do css on this element
-- element selector, id selector, group selector, class selector
